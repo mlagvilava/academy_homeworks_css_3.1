@@ -1,0 +1,25 @@
+.pinkBorder {
+    border-style: solid;
+    border-color: #DB00FF;
+    width: 305px;
+    height: 168px;
+}
+.dotedBorder {
+    border-style: dotted;
+    border-color: #450E4E;
+    width: 657px;
+    height: 121px;
+}
+.greenBorder {
+    border-style: solid;
+    border-color: #04FF4A;
+    width: 399px;
+    height: 95px;
+}
+.fieldBorder {
+    border-style: double;
+    border-color: #736E42;
+    width: 1097px;
+    height: 173px;
+    background-color: #247DAF;
+}
